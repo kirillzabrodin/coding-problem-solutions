@@ -1,4 +1,4 @@
-# Coding problem Solutions
+# Coding Problem Solutions
 
 This is a collection of coding problem solutions. The problems came from multiple sources including leetcode, Daily Coding Problem and CodeWars.
 
