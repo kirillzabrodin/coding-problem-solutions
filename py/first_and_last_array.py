@@ -1,6 +1,5 @@
 from typing import List
 
-
 class Solution:
     def binary_search_r(self, nums, target):
         left, right = 0, len(nums) - 1
